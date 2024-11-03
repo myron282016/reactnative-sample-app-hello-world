@@ -7,7 +7,7 @@ export default function  App() {
 const [red, setRed] = useState(128);
 const [green, setGreen] = useState(128); 
 const [blue, setBlue] = useState(128);
-const [studentName, setStudentName] = useState("Myron Murph");
+const [studentName, setStudentName] = useState("Sharon Diaz");
 const [isReady, setIsReady] = useState(false);
 
 
